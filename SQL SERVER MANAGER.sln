@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL SERVER MANAGER", "SQL SERVER MANAGER\SQL SERVER MANAGER.csproj", "{BBC05761-1620-4E7E-9FA2-45004E6AC911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Connection", "..\Test Connection\Test Connection\Test Connection.csproj", "{6900F166-7CAC-4B42-B869-9CE5AF14ECD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC05761-1620-4E7E-9FA2-45004E6AC911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC05761-1620-4E7E-9FA2-45004E6AC911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC05761-1620-4E7E-9FA2-45004E6AC911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC05761-1620-4E7E-9FA2-45004E6AC911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6900F166-7CAC-4B42-B869-9CE5AF14ECD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6900F166-7CAC-4B42-B869-9CE5AF14ECD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6900F166-7CAC-4B42-B869-9CE5AF14ECD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6900F166-7CAC-4B42-B869-9CE5AF14ECD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

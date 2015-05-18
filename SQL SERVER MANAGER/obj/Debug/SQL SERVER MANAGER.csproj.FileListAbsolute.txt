@@ -1,0 +1,10 @@
+c:\users\gabriel\documents\visual studio 2013\Projects\SQL SERVER MANAGER\SQL SERVER MANAGER\bin\Debug\SQL SERVER MANAGER.exe.config
+C:\Users\Gabriel\documents\visual studio 2013\Projects\SQL Server Manager\SQL SERVER MANAGER\bin\Debug\SQL SERVER MANAGER.exe
+C:\Users\Gabriel\documents\visual studio 2013\Projects\SQL Server Manager\SQL SERVER MANAGER\bin\Debug\SQL SERVER MANAGER.pdb
+C:\Users\Gabriel\documents\visual studio 2013\Projects\SQL Server Manager\SQL SERVER MANAGER\obj\Debug\SQL_SERVER_MANAGER.Form1.resources
+C:\Users\Gabriel\documents\visual studio 2013\Projects\SQL Server Manager\SQL SERVER MANAGER\obj\Debug\SQL_SERVER_MANAGER.Properties.Resources.resources
+C:\Users\Gabriel\documents\visual studio 2013\Projects\SQL Server Manager\SQL SERVER MANAGER\obj\Debug\SQL SERVER MANAGER.csproj.GenerateResource.Cache
+C:\Users\Gabriel\documents\visual studio 2013\Projects\SQL Server Manager\SQL SERVER MANAGER\obj\Debug\SQL SERVER MANAGER.exe
+C:\Users\Gabriel\documents\visual studio 2013\Projects\SQL Server Manager\SQL SERVER MANAGER\obj\Debug\SQL SERVER MANAGER.pdb
+C:\Users\Gabriel\documents\visual studio 2013\Projects\SQL Server Manager\SQL SERVER MANAGER\obj\Debug\SQL_SERVER_MANAGER.Form2.resources
+C:\Users\Gabriel\documents\visual studio 2013\Projects\SQL Server Manager\SQL SERVER MANAGER\obj\Debug\SQL SERVER MANAGER.csprojResolveAssemblyReference.cache
